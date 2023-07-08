@@ -2,5 +2,5 @@
 
 :computer: Iniciando nessa vasta e incrível área da técnologia! :rocket:
 
-:books: Em processo de formação pela [Laboratoria Brasil](https://www.laboratoria.la/br)
+:books: Recém formada em Desenvolvimento Front-End no bootcamp da [Laboratoria Brasil](https://www.laboratoria.la/br)
 
